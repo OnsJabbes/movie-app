@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761074351354",
+    "project_id": "events-d58cf",
+    "storage_bucket": "events-d58cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761074351354:android:0e79aee59f7cad5e4d1d43",
+        "android_client_info": {
+          "package_name": "it.softwarehouse.events_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFiT5h4C52i4jjiurSR4tTnjvXXPsS91s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
